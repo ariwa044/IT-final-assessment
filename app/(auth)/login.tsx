@@ -20,7 +20,7 @@ export default function LoginScreen() {
         </View>
 
         <View style={styles.top}>
-          <Text style={styles.title}>Welcome, Michael_Arinze</Text>
+          <Text style={styles.title}>Welcome, Official</Text>
           <Text style={styles.sub}>Enter your password</Text>
         </View>
 

@@ -25,7 +25,7 @@ export default function HomeScreen() {
         {/* Header */}
         <View style={styles.header}>
           <View>
-            <Text style={styles.greeting}>Hi, @Michael_Arinze</Text>
+            <Text style={styles.greeting}>Hi, @Official</Text>
             <Text style={styles.subtitle}>Start saving now</Text>
           </View>
           <View style={styles.notifBtn}>

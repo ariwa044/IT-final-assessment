@@ -25,8 +25,8 @@ export default function AccountScreen() {
             <Ionicons name="person" size={32} color={XendColors.primaryBlue} />
           </View>
           <View>
-            <Text style={styles.name}>Michael_Arinze</Text>
-            <Text style={styles.email}>michaelarinze2018@gmail.com</Text>
+            <Text style={styles.name}>Official</Text>
+            <Text style={styles.email}>official2018@gmail.com</Text>
           </View>
         </View>
 
